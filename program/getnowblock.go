@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/sasaxie/go-client-api/common/hexutil"
-	"github.com/sasaxie/go-client-api/service"
-	"github.com/sasaxie/go-client-api/util"
+	"github.com/stanche/go-client-api/common/hexutil"
+	"github.com/stanche/go-client-api/service"
+	"github.com/stanche/go-client-api/util"
 	"log"
 	"strings"
 )

@@ -1,6 +1,6 @@
 package models
 
-import "github.com/sasaxie/go-client-api/common/global"
+import "github.com/stanche/go-client-api/common/global"
 
 type AccountNetMessage struct {
 	FreeNetUsed    int64

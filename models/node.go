@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/sasaxie/go-client-api/common/global"
+	"github.com/stanche/go-client-api/common/global"
 )
 
 type NodeList struct {
